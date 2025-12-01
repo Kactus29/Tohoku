@@ -1,0 +1,2 @@
+,accuracy,precision,recall,specificity,dice,IoU,AUC
+Vessel,0.9632,0.7742,0.8184,0.9771,0.7957,0.6607,0.9699
