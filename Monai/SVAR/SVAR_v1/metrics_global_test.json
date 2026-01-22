@@ -1,1 +1,1 @@
-{"Vessel":{"accuracy":0.9672,"precision":0.7631,"recall":0.7892,"specificity":0.981,"dice":0.7759,"IoU":0.6339,"AUC":0.978}}
+{"Vessel":{"accuracy":0.9685,"precision":0.7793,"recall":0.7842,"specificity":0.9828,"dice":0.7817,"IoU":0.6416,"AUC":0.9794}}
